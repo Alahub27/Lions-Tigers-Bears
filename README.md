@@ -9,7 +9,7 @@ Eric Pogue for the hello world template repository.
 
 
 ## Descriptions:
-The website resume was created by using HTML and CSS. This projects is hosted on Micosoft Azure. This project was completed to create a slideshow of dog breed images fetched from a public API.
+The project was created by using HTML and CSS. This projects is hosted on Micosoft Azure. This project was completed to create a slideshow of dog breed images fetched from a public API.
 
 ## Instructions: 
 
